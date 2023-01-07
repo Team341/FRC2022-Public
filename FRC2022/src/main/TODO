@@ -1,0 +1,6 @@
+Right now the automated climb has a button to wait for the operator to say continue, but what if the robot isn't in position and the operator has to manually adjust. How do we let them adjust? How do we resume the climb sequence after the adjustment? We also need to test that the full automated sequence works
+Need to test the ball spitting logic is working on the new robot
+Need to tune the shooter w/vision ranges
+Confirm button mapping for robot functions is good with Drive Booth\Sean
+Status LEDs for the hanger sequence
+The rest of the LEDs

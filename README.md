@@ -1,2 +1,2 @@
 # FRC2022-Public
-Release of the 2022 season robot code.
+Release of Team 341's 2022 season robot code.

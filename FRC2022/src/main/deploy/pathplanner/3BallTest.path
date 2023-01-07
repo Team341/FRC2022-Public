@@ -1,0 +1,102 @@
+{
+  "waypoints": [
+    {
+      "anchorPoint": {
+        "x": 7.5235593509161705,
+        "y": 1.7246312973638596
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 7.535134057609888,
+        "y": 0.5787353346858566
+      },
+      "holonomicAngle": -86.18592516570948,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "waitTime": 0
+    },
+    {
+      "anchorPoint": {
+        "x": 7.672205023395927,
+        "y": 0.7913139097281037
+      },
+      "prevControl": {
+        "x": 7.667054759223843,
+        "y": 0.8495662680763187
+      },
+      "nextControl": {
+        "x": 7.7189427494559215,
+        "y": 0.2626841781533825
+      },
+      "holonomicAngle": -94.39870535499557,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "waitTime": 0
+    },
+    {
+      "anchorPoint": {
+        "x": 4.202773251152204,
+        "y": 1.6126920614886364
+      },
+      "prevControl": {
+        "x": 2.8745032636404186,
+        "y": 1.058675518342014
+      },
+      "nextControl": {
+        "x": 4.55868727258805,
+        "y": 1.761142495261274
+      },
+      "holonomicAngle": 20.265697470947558,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "waitTime": 0
+    },
+    {
+      "anchorPoint": {
+        "x": 5.38541409624387,
+        "y": 2.0818388430126027
+      },
+      "prevControl": {
+        "x": 4.861533523542106,
+        "y": 1.9254565825046144
+      },
+      "nextControl": {
+        "x": 5.909294668945633,
+        "y": 2.238221103520591
+      },
+      "holonomicAngle": 18.434948822921868,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": true,
+      "waitTime": 0
+    },
+    {
+      "anchorPoint": {
+        "x": 8.575612210606845,
+        "y": 1.655697183128332
+      },
+      "prevControl": {
+        "x": 7.281549004903236,
+        "y": 2.046652834398304
+      },
+      "nextControl": null,
+      "holonomicAngle": 3.621484704117159,
+      "isReversal": false,
+      "velOverride": null,
+      "isLocked": false,
+      "isStopPoint": false,
+      "waitTime": 0
+    }
+  ],
+  "maxVelocity": 3.75,
+  "maxAcceleration": 4.0,
+  "isReversed": true,
+  "markers": []
+}
